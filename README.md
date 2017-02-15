@@ -146,3 +146,10 @@ Good luck!
 ## License
 
 MIT License
+
+## Extra notes for setup:
+
+* Must upgrade Node to the latest version
+* Don't use /webchat/ in the link, just do http://xxx.azurewebsites.net/index.html?s=YOURDIRECTLINEKEY
+* Make sure you get the correct direct line secret and app id/password
+* Can leave ngrok on throughout
